@@ -1,0 +1,1 @@
+cmd_/home/nishadkamdar/modules/chr_driver/chrdev.ko := ld -r -m elf_i386 -T /usr/src/linux-2.6.32/scripts/module-common.lds --build-id -o /home/nishadkamdar/modules/chr_driver/chrdev.ko /home/nishadkamdar/modules/chr_driver/chrdev.o /home/nishadkamdar/modules/chr_driver/chrdev.mod.o

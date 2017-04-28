@@ -1,0 +1,1 @@
+cmd_/home/nishadkamdar/modules/mod_params/mod_params.ko := ld -r -m elf_i386 -T /usr/src/linux-2.6.32/scripts/module-common.lds --build-id -o /home/nishadkamdar/modules/mod_params/mod_params.ko /home/nishadkamdar/modules/mod_params/mod_params.o /home/nishadkamdar/modules/mod_params/mod_params.mod.o

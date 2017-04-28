@@ -1,0 +1,1 @@
+cmd_/home/nishadkamdar/hello_world/hello_world.ko := ld -r -m elf_i386 -T /usr/src/linux-2.6.32/scripts/module-common.lds --build-id -o /home/nishadkamdar/hello_world/hello_world.ko /home/nishadkamdar/hello_world/hello_world.o /home/nishadkamdar/hello_world/hello_world.mod.o
